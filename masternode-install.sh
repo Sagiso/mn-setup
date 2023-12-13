@@ -15,7 +15,7 @@ COIN_TGZ=$(echo $COIN_TGZP | awk -F'/' '{print $NF}')
 COIN_NAME='sagiso'
 COIN_NAME_OLD='sagisod'
 PROJECT_NAME='sagiso (sagiso)'
-COIN_EXPLORER='http://95.179.155.62:3001/'
+COIN_EXPLORER='http://139.59.163.70:3002/'
 COIN_PORT=5599
 RPC_PORT=5600
 
