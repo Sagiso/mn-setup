@@ -2,7 +2,9 @@
  
 
 Requirements: 	
+
 1.) VPS for example on vultr or AWS on Amazon Services or Digital Ocean or Contabo
+
 2.) for 1 Masternode you need a wallet with 5000 Sagiso Coins (1 coin for the fees)
 
 
